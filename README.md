@@ -1,1 +1,1 @@
-# projecycovid
+# ko-vid
