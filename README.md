@@ -6,38 +6,33 @@ This is a web based application developed for health related telugu based websit
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - http://teluguhealth.southindia.cloudapp.azure.com/
-
+**Project Link** -
+**Project Demo Video URL** -
 
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
+- Has collection of many web pages including Home, About,Services,Contact,Covidbot,day&night mode and health related information etc.
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
 
- 
+![Ko-vid_ Home - Google Chrome 11_21_2022 3_42_51 PM](https://user-images.githubusercontent.com/116432609/203024899-cdb900dc-0230-43ef-93f9-c533563cfa97.png)
 
+   ![Ko-vid_ Home - Google Chrome 11_21_2022 3_43_13 PM](https://user-images.githubusercontent.com/116432609/203024922-9bfc065f-4f22-4c93-b83a-439dd00671b7.png)
 
-   
+![Ko-vid_ Home - Google Chrome 11_21_2022 3_43_22 PM](https://user-images.githubusercontent.com/116432609/203024945-af0c1a99-30be-4b28-8e05-904e6b2652a1.png)
+![Ko-vid_ Home - Google Chrome 11_21_2022 3_43_32 PM](https://user-images.githubusercontent.com/116432609/203024962-97469e7f-963e-4592-9c9c-a8989bdcb6b2.png)
+![Ko-vid_ Home - Google Chrome 11_21_2022 3_43_51 PM](https://user-images.githubusercontent.com/116432609/203025030-271fcb7f-f261-486a-b15e-c994e7b14c31.png)
 
-### About Us -
+![Ko-vid_ Home - Google Chrome 11_21_2022 3_44_37 PM](https://user-images.githubusercontent.com/116432609/203025096-57f20e1e-fa68-4c39-9ae0-4361e776ebcb.png)
 
+### About Us -our web site is for covid-19 based web site,every covid related solutions are found here. 
 
-
-
-
-
-### Privacy policy -
-
-
-
-
-
+### Privacy policy -![Ko-vid_ Home - Google Chrome 11_21_2022 3_44_00 PM](https://user-images.githubusercontent.com/116432609/203025089-90e68920-6acf-49e3-857f-f012ac7d2f26.png)
 
 ## Tech Stack 💻
 
