@@ -8,7 +8,7 @@ This is a web based application developed for health related telugu based websit
 
 **Project Link** - https://kvchanikyaachari.github.io/projecycovid/
 **Project Demo Video URL** -
-
+**static webapp demo URL** -https://agreeable-plant-0ca4a5b00.2.azurestaticapps.net
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
@@ -29,6 +29,10 @@ This is a web based application developed for health related telugu based websit
 ![Ko-vid_ Home - Google Chrome 11_21_2022 3_43_51 PM](https://user-images.githubusercontent.com/116432609/203025030-271fcb7f-f261-486a-b15e-c994e7b14c31.png)
 
 ![Ko-vid_ Home - Google Chrome 11_21_2022 3_44_37 PM](https://user-images.githubusercontent.com/116432609/203025096-57f20e1e-fa68-4c39-9ae0-4361e776ebcb.png)
+static webapp screenshot
+![GitHub - Google Chrome 12_3_2022 8_51_14 PM](https://user-images.githubusercontent.com/116432609/205449037-1e398087-97a1-448d-9a09-35f8f062401b.png)
+Health bot screenshot
+![GitHub - Google Chrome 12_3_2022 8_57_06 PM](https://user-images.githubusercontent.com/116432609/205449162-7520790d-cec3-401a-a282-a04a88abdd2f.png)
 
 ### About Us -our web site is for covid-19 based web site,every covid related solutions are found here. 
 
