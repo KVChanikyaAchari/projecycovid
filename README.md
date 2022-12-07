@@ -7,7 +7,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://kvchanikyaachari.github.io/projecycovid/
-**Project Demo Video URL** -
+**Project Demo Video URL** -https://youtu.be/EbVz1XMJcbg
 **static webapp demo URL** -https://agreeable-plant-0ca4a5b00.2.azurestaticapps.net
 ## Features and Functionalities 😃
 
